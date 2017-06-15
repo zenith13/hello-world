@@ -13,5 +13,6 @@ public class Demo {
         List<String> asd=new ArrayList<>();
         asd.add("asd");
         asd.forEach(s-> System.out.println(s));
+        System.out.println("aasddddddd");
     }
 }
